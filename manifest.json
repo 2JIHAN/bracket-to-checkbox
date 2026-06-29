@@ -1,0 +1,9 @@
+{
+  "id": "bracket-to-checkbox",
+  "name": "Bracket to Checkbox",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Type [ ] then space to turn it into a Markdown checkbox (- [ ] ).",
+  "author": "jihan",
+  "isDesktopOnly": false
+}
